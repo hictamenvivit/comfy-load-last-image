@@ -20,7 +20,7 @@ A custom ComfyUI node that automatically loads the most recent image from a spec
 
 2. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/comfy-load-last-image.git
+   git clone https://github.com/benstaniford/comfy-load-last-image.git
    ```
 
 3. Restart ComfyUI
